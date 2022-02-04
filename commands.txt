@@ -1,0 +1,18 @@
+
+//бэлэн сан олж суулгах жишээ нь request
+npm install request --save
+
+//суулгах Package үүсгэх
+npm init -y 
+
+node server.js
+
+
+==========================================
+//Суулгасан сангууд
+
+// 1.request - server luu handaj medeelel awax zoriulaltai
+npm i request 
+
+// 2.node monitor - server shuud untraahgyi uurchlolt hiideg
+npm i nodemon --save-dev
