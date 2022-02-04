@@ -5,3 +5,7 @@ npm i nodemon -D
 
 //start server
 npm run dev
+
+//morgan middleware
+npm i morgan
+npm i rotating-file-streamm
